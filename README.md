@@ -293,4 +293,3 @@ git clone https://github.com/esofar/cnblogs-theme-silence.git
 * 修复目录有序索引 title 显示异常问题。
 * 修复手机端博文图片缩放问题。
 * 优化博文标题显示效果。
-

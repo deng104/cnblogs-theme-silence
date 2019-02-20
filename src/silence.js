@@ -66,7 +66,7 @@
         }
 
         /**
-         * 初始化
+         * 初始化.
          * @param {Object} options 配置选项
          */
         init(options) {
@@ -109,7 +109,7 @@
         }
 
         /**
-         * 进入阅读模式
+         * 进入阅读模式.
          */
         goIntoReadingMode() {
             let _that = this;
@@ -129,7 +129,7 @@
         }
 
         /**
-         * 进入正常模式
+         * 进入正常模式.
          */
         goIntoNormalMode() {
             let _that = this;
@@ -143,7 +143,7 @@
         }
 
         /**
-         * 构建导航栏自定义DOM元素
+         * 构建导航栏自定义DOM元素.
          */
         buildNavCustomElements() {
             let _that = this;
